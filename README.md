@@ -26,6 +26,10 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
+### Links
+
+- Live Site URL: [Github Pages](https://rylulu.github.io/Blog-Preview-Card/)
+
 ## My process
 
 ### Built with
