@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Blog Preview Card.jpeg)
+![](./Blog-Preview-Card.jpeg)
 
 ## My process
 
